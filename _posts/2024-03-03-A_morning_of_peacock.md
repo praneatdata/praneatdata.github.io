@@ -9,7 +9,7 @@ tags: [Photography]
 
 [//]: # (![Photo Description]&#40;assets/images/IMG_0322-1.jpg&#41;)
 <div style="float: left; margin-right: 20px;">
-    <img src="assets/images/IMG_0322-1.jpg" alt="Photo Description" width="400"/>
+    <img src="assets/images/IMG_0322-1.jpg" alt="Photo Description" width="450"/>
 </div>
 
 ### Description

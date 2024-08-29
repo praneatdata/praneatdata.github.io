@@ -6,7 +6,7 @@ tags: [Photography]
 ---
 
 <div style="float: left; margin-right: 20px;">
-    <img src="assets/images/Valentine's Day_Praneat Data.jpg" alt="Photo Description" width="400"/>
+    <img src="assets/images/Valentine's Day_Praneat Data.jpg" alt="Photo Description" width="450"/>
 </div>
 
 ### Description
