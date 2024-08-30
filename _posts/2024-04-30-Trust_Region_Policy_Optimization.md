@@ -1,5 +1,5 @@
 ---
-title: "Trust Region Policy Optimization | Course Project"
+title: "Autonomous Humanoid Mobility | Course Project"
 date: 2024-04-30 00:00:00 +0530
 categories: [Project]
 tags: [reinforcement learning, course project]
