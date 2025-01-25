@@ -18,3 +18,5 @@ Our experiments involved training the robot's walking motion using **TRPO**, and
 - [Link to the Research Paper](https://arxiv.org/pdf/1502.05477.pdf)
 - [Presentation: The Mathematics Behind the Model](https://docs.google.com/presentation/d/1SvSRa8LQY9OYLLbO5gEWhcIGgx3YTSaeOVJ-FYU3jBA/edit#slide=id.p)
 - [Implementation Details in the Simulation](https://docs.google.com/presentation/d/1fjHPl11lA-PWJJobQR5Dp2lViF3Cjf5F8WiBu-3XEq0/edit#slide=id.g2d1a7f1cc29_4_59)
+
+You can find the assignments covered in the course at my [Github](https://github.com/praneatdata/Reinforcement-Learning-Course-Project/tree/main/Assignments).
